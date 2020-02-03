@@ -10,7 +10,7 @@ Health Commission of Hubei Province: http://wjw.hubei.gov.cn/bmdt/ztzl/fkxxgzbdg
 
 And the Wuhan Municipal Health Commission (from 1/11/2020 to 1/19/2020): http://wjw.wuhan.gov.cn/front/web/list2nd/no/710
 
-## I've also hand-collected the SARS 2003 Hongkong outbreak data 
+## SARS 2003 Hongkong outbreak data 
 
 Data collected via a webcrawler from the HK department of health public announcement (cached) 
 
