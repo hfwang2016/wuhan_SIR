@@ -1,3 +1,12 @@
+# updates are moved to 
+3082455059/nCoV-SIR
+
+as of 3/9/2020
+
+## International data collected from WHO situation reports
+
+www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
+
 # 2019-2020 Wuhan Coronavirus Outbreak data
 
 A new coronavirus, designated 2019-nCoV, was identified in Wuhan, the capital of China's Hubei, which rapidly spreaded to all provinces of China.  
